@@ -17,7 +17,7 @@ Read the design_approach for more details like
 ### 🎥 Dataflow Visualization
 To understand the dataflow for convolution, I have created an animation that illustrates how the data moves through the pipeline:
 * [**View Dataflow Animation (PDF)**](https://github.com/chetan5o/Convolutional-Neural-Network-Pipeline/blob/main/data_path_slidiing_pdf.pdf)
-* [**Download Editable Design PPTX**](https://github.com/chetan5o/Convolutional-Neural-Network-Pipeline/blob/main/design_approach.pptx) — Added my powerpoint here. If you have a better architecture you can use this template.
+* [**Download Editable Design PPTX**](https://github.com/chetan5o/Convolutional-Neural-Network-Pipeline/blob/main/design_approach.pptx?raw=true) — Added my powerpoint here. If you have a better architecture you can use this template.
 
 
 ### 📊 High-Level Architecture & Performance Metrics 
