@@ -10,7 +10,7 @@ Implemented a hardware CNN pipeline in SystemVerilog for a 1024×1024 input, fea
 
 Read the design_approach for more details like 
 1. what should be size of the buffer
-2. optimize pattern to slize
+2. optimize pattern to slide
 3. how to store the processed data
 * [**Design Approach (PDF)**](https://github.com/chetan5o/Convolutional-Neural-Network-Pipeline/blob/main/design_approach_pdf.pdf)
 
